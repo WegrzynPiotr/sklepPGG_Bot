@@ -1,7 +1,7 @@
 <h1>Instrukcja uruchomienia bota na stronie skleppgg<h1>
-<h3>Było testowane na przeglądarce google chrome</h3>
+<h3>Zostało przetestowane w przeglądarce Google Chrome</h3>
 <ol>
-<li>Pobierz wtyczkę do przeglądarki google chrome o nazwie Code Injector <a href="https://chrome.google.com/webstore/detail/code-injector/mmngbmmjfjannofkffhoindghfbhcool">Kliknij tutaj, aby pobrać</a></li>
+<li>Pobierz wtyczkę do przeglądarki Google Chrome o nazwie Code Injector <a href="https://chrome.google.com/webstore/detail/code-injector/mmngbmmjfjannofkffhoindghfbhcool">Kliknij tutaj, aby pobrać</a></li>
 <li>Wejdź w ustawienia wtyczki klikając w ikonę dodanej wtyczki (prawy górny róg przeglądarki, tuż pod kartami) <br>
 <img src="https://i.ibb.co/SdWKNHk/Obraz-19-12-2022-godz-10-32.jpg"></li>
 <li>Następnie kliknij "Add code" po lewej stronie <br><img src="https://i.ibb.co/xJHp1bx/Obraz-19-12-2022-godz-10-38.jpg"></li>
